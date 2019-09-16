@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Welcome to my markdown practice page!
+My name is Andrew and you will see my progress as I learn Github!
