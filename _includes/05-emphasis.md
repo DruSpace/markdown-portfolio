@@ -1,0 +1,1 @@
+I have a *working* knoweldge of **SQL** and **Visual Basic**; however, I have very little knowledge of **C** languages.
